@@ -1,0 +1,23 @@
+{
+    "mccloud_ads": {
+        "description": "https://idc.stay33.cn/cart?fid=16",
+        "type": "string",
+        "hint": "云电脑挂机宝低至4元/月",
+        "default": "https://idc.stay33.cn/cart?fid=16",
+        "obvious_hint": true
+    },
+    "api_key": {
+        "description": "智谱AI的API密钥",
+        "type": "string",
+        "hint": "请填写你的智谱AI API密钥",
+        "default": "",
+        "obvious_hint": false
+    },
+    "model": {
+        "description": "智谱AI的模型名称",
+        "type": "string",
+        "hint": "智谱AI的图像生成模型",
+        "default": "cogView-4",
+        "obvious_hint": false
+    }
+}
