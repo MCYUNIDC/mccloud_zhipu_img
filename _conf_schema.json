@@ -1,9 +1,9 @@
 {
     "mccloud_ads": {
-        "description": "https://idc.stay33.cn/cart?fid=16",
+        "description": "https://idc.stay33.cn/act.html",
         "type": "string",
         "hint": "云电脑挂机宝低至4元/月",
-        "default": "https://idc.stay33.cn/cart?fid=16",
+        "default": "https://idc.stay33.cn/act.html",
         "obvious_hint": true
     },
     "api_key": {

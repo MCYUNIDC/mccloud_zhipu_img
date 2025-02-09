@@ -1,10 +1,6 @@
 name: mccloud_zhipu_img
 desc: 智谱AI图像生成插件，支持使用智谱AI的cogView-4模型生成图片。
-help: |
-  使用方法：/aimg <提示词> [大小]
-  示例：
-  /aimg 可爱的猫咪
-  /aimg 风景画 1024x1024
-version: v1.0
+help: 使用方法：画一个什么什么可以自定义大小
+version: v2.0
 author: MC云-小馒头
 repo: https://github.com/MCYUNIDC/mccloud_zhipu_img

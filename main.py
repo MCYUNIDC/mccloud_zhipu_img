@@ -6,7 +6,7 @@ import importlib
 import subprocess
 import sys
 
-@register("mccloud_zhipu_img", "MC云-小馒头", "使用智谱AI生成图片。使用画一个什么什么。", "1.0")
+@register("mccloud_zhipu_img", "MC云-小馒头", "使用智谱AI生成图片。使用画一个什么什么。", "2.0")
 class ZhipuImagePlugin(Star):
     def __init__(self, context: Context, config: dict):
         super().__init__(context)
